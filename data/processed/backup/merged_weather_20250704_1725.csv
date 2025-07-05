@@ -1,0 +1,4 @@
+date,city,temp,temp_min,temp_max,humidity,pressure,wind_speed,weather_condition,rain
+2023-01-01 12:00:00,Paris,15.2,12.1,17.8,72,1012,3.5,Clouds,0
+2023-01-01 12:00:00,London,13.5,11.0,15.0,80,1015,4.2,Rain,1.2
+...
